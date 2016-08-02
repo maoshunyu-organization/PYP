@@ -7,7 +7,7 @@ Learn the experience of Python
 **[中文readme](./README_zh.md)**
 ## 好了正文开始
 
-### **This repo use Python 3！！！**
+## **This repo use Python 3！！！**
 
 
 
